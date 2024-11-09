@@ -1,6 +1,7 @@
 # LAB-3-COMPLETE
 
 **LAB TASK 1**
+
 **1.	Write a program which takes an integer value (k) as input and prints the sequence of numbers from k to 0 in descending order.**
 
 package com.mycompany.lab3labtask1;
@@ -31,6 +32,7 @@ public class Lab3labtask1 {
 }
 
 **LAB TASK 2**
+
 **2.	Write a program to reverse your full name using Recursion.**
 
 package com.mycompany.lab3labtask2;
@@ -59,6 +61,7 @@ public class Lab3labtask2 {
 }
 
 **LAB TASK 3**
+
 **3.	Write a program to calculate the sum of numbers from 1 to N using recursion. N should be user input.**
 
 package com.mycompany.lab3labtask3;
@@ -88,6 +91,7 @@ public class Lab3labtask3 {
 }
 
 **LAB TASK 4**
+
 **4.	Write a recursive program to calculate the sum of elements in an array.**
 
 package com.mycompany.lab3labtask4;
@@ -110,6 +114,7 @@ public static int sumArray(int[] array, int n) {
 }
 
 **LAB TASK 5**
+
 **5.	Write a recursive program to calculate the factorial of a given integer n.**
 
 package com.mycompany.lab3labtask5;
@@ -134,6 +139,7 @@ public class Lab3labtask5 {
 }
 
 **LAB TASK 6**
+
 **6.	Write a program to count the digits of a given number using recursion.**
 
 package com.mycompany.lab3labtask6;
@@ -158,6 +164,7 @@ public class Lab3labtask6 {
 }
 
 **HOME TASK 1**
+
 **1.	Write a java program to find the N-th term in the Fibonacci series using Memoization.**
 
 package com.mycompany.lab3hometask1;
@@ -193,6 +200,7 @@ public class Lab3hometask1 {
 }
 
 **HOME TASK 2**
+
 **2.	Write a program to count the digits of a given number using recursion.**
 
 package com.mycompany.lab3hometask2;
@@ -216,6 +224,7 @@ public class Lab3hometask2 {
 }
 
 **HOME TASK 3**
+
 **3.	Write a java program to check whether a given string is a palindrome or not. A palindrome is a string that reads the same forwards and backwards.Print "YES" if the string is a palindrome, otherwise print "NO".**
 
 package com.mycompany.lab3hometask3;
@@ -243,6 +252,7 @@ public static boolean isPalindrome(String str, int start, int end) {
 }
 
 **HOME TASK 4**
+
 **4.	Write a recursive program to find the greatest common divisor (GCD) of two numbers using Euclid's algorithm.**
 
 package com.mycompany.lab3hometask4;
